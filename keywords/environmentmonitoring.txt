@@ -1,0 +1,34 @@
+environment monitoring
+outdoor environmental monitoring
+humidity monitoring
+air quality monitoring
+natural gas monitoring
+soil mosture monitoring
+earthquake vibration monitoring
+outside temperature monitoring
+gunshot sound sensor
+abnormal outdoor activity detection
+
+environmental monitoring
+microclimate
+agriculture
+intensive farming
+fish farming
+
+indoor environmental monitoring
+lighting monitoring
+co2 monitoring
+co monitoring
+natural gas monitoring
+hvac systems monitoring
+ventialation monitoring
+fire detection
+temperature monitoring
+indoor occupancy sensing
+
+indoor air quality
+indoor environmental quality
+heating, ventilation, and air conditioning
+building management system
+fire alarm system
+building insulation

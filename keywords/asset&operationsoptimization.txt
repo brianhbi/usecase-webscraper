@@ -1,0 +1,16 @@
+asset and operations optimization
+infrastructure and operations control optimization
+process optimization 
+assembly line optimization
+vehicle route optimization
+robotics integration to operation systems
+elevator scheduling
+network optimization
+business process optimization
+vehicle control optimization
+
+control systems
+industrial control systems
+control engineering
+mass production
+scheduling (production processes)

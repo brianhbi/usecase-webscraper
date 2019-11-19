@@ -1,0 +1,12 @@
+product inspection
+silicon chip defect detection
+health recognition
+package quality inspection
+vehicle damage
+manufacturing line
+
+recognition
+product characteristics
+vehicle color
+product type
+produce type

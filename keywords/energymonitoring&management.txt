@@ -1,0 +1,17 @@
+energy monitoring and management
+energy management
+micro grid management
+macro grid management
+grid management
+device energy usage
+building energy usage
+equipment energy usage
+machine energy usage
+
+energy management
+energy development
+efficient energy use_case
+electrical grid
+electrical substations
+smart grid
+smart meter
