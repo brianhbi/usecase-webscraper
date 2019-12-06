@@ -16,6 +16,12 @@ try:
 except ImportError:
     print("No module named 'google' found")
 
+proxy = 'http://proxy-us.intel.com:911'
+
+os.environ['http_proxy'] = proxy
+os.environ['HTTP_PROXY'] = proxy
+os.environ['https_proxy'] = proxy
+os.environ['HTTPS_PROXY'] = proxy
 
 # Input: use case you want to create dataset for
 # Output: df (list of rows - [label, query, link, text,  #words]) with google and wiki data together
@@ -98,14 +104,14 @@ def get_wiki_data(queries, label):
 
 
 def main():
-    use_case = str(sys.argv[1])
+    use_case = str(sys.argv[1]) # takes a use case category as a argument
     print("---------- USE CASE =", use_case, "----------\n")
 
-    start = time.time()
+    start = time.time() #starts a timer for how long script takes
 
-    raw_data = pull_data_from_queries(use_case)
+    raw_data = pull_data_from_queries(use_case) # pulls data from keywords text files
     df = pd.DataFrame(raw_data, columns=['Use Case Category', 'Query', 'Link', 'Text', 'number_of_words'])
-    clean_df = remove_failed_links(df)
+    clean_df = remove_failed_links(df) # call upon different python file to remove failed links
     # clean_df.to_csv('all_data_df.csv', index=False) # -- problem if more than 33,000 characters in a cell
 
     train, test = clean_data_for_fasttext(clean_df)

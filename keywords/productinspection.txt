@@ -4,9 +4,16 @@ health recognition
 package quality inspection
 vehicle damage
 manufacturing line
-
-recognition
+product defect detection
 product characteristics
 vehicle color
-product type
-produce type
+product type recognition
+
+inspection
+product defect
+defect tracking
+quality control
+product recall
+product description
+product classification
+product analysis

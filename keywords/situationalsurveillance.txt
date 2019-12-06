@@ -10,6 +10,8 @@ object surveillance in stores
 city vehicle surveillance
 
 surveillance
+surveillance issues in smart cities
+ip camera
 security
 closed-circuit television
 body worn video

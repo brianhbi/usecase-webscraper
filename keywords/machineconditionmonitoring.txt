@@ -9,5 +9,9 @@ predictive maintenance
 rotary equipment monitoring
 
 condition monitoring
+deformation monitoring
 predictive maintenance
+proactive maintenance
+conformance testing
 industrial internet of things
+

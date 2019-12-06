@@ -10,6 +10,9 @@ medical diagnosis
 hospital infrastructure management
 
 health informatics
+health and usage monitoring systems
+monitoring (medicine)
+heart rate monitoring
 health care
 medical imaging
 physician
